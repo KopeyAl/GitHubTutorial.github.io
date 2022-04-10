@@ -1,0 +1,17 @@
+body {
+    background-color: #111;
+}
+
+.page_slim {
+    padding-left: 4vw;
+    width: 92vw;
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+}
+
+.page_thick {
+    padding-left: 30vw;
+    width: 40vw;
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+}
